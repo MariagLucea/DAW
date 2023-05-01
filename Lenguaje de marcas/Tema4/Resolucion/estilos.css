@@ -1,0 +1,63 @@
+/*HOJA DE ESTILO PARA WEB DE MUSICA*/
+
+
+/*carateristicas del cuerpo en general */
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: #000;
+    font-weight: 400;
+    background-color: rgb(200, 209, 244);
+    text-align: center;
+}
+
+
+/*caracteristicas de las imagenes*/
+
+.img1 {
+    width: 300px;
+    height: 150px
+}
+
+.img2 {
+    width: 300px;
+    height: 200px
+}
+
+
+/*carateristicas de los titulos*/
+
+h1 {
+    font-size: 60px;
+    color: rgb(31, 14, 98);
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    color: rgb(8, 41, 8);
+    text-align: center;
+    background-color: beige;
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(8, 41, 8);
+    text-align: center;
+}
+
+
+/*características del video*/
+
+video {
+    width: 600px;
+    height: 400px
+}
+
+
+/* pie de pagina*/
+
+footer {
+    text-align: left;
+}

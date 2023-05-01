@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="supuesto2.xsl" type="text/xsl"?>
+<raiz>
+    <empleado>
+        <dni>12546389l</dni>
+        <nombre>Juan</nombre>
+        <apellidos>Rodriguez Perez</apellidos>
+        <sueldo>3000</sueldo>
+    </empleado>
+    <empleado>
+        <dni>23589562p</dni>
+        <nombre>Luis</nombre>
+        <apellidos>Gomez Ruiz</apellidos>
+        <sueldo>1600</sueldo>
+    </empleado>
+    <empleado>
+        <dni>25413698j</dni>
+        <nombre>Laura</nombre>
+        <apellidos>Gonzalez Gallardo</apellidos>
+        <sueldo>1800</sueldo>
+    </empleado>
+    <empleado>
+        <dni>47812369o</dni>
+        <nombre>Marta</nombre>
+        <apellidos>Lopez Fernandez</apellidos>
+        <sueldo>1900</sueldo>
+    </empleado>
+    <empleado>
+        <dni>15248562y</dni>
+        <nombre>Celia</nombre>
+        <apellidos>Alvarez Garcia</apellidos>
+        <sueldo>1450</sueldo>
+    </empleado>
+    <empleado>
+        <dni>74125896j</dni>
+        <nombre>Vitor</nombre>
+        <apellidos>Caballero Contreras</apellidos>
+        <sueldo>2100</sueldo>
+    </empleado>
+    <empleado>
+        <dni>41257845f</dni>
+        <nombre>Pilar</nombre>
+        <apellidos>Caceres Eugenio</apellidos>
+        <sueldo>1200</sueldo>
+    </empleado>
+    <empleado>
+        <dni>48512358h</dni>
+        <nombre>Virginia</nombre>
+        <apellidos>Brenes Gala</apellidos>
+        <sueldo>1489</sueldo>
+    </empleado>
+    <empleado>
+        <dni>12479543k</dni>
+        <nombre>Dario</nombre>
+        <apellidos>Cid Cortes</apellidos>
+        <sueldo>2032</sueldo>
+    </empleado>
+    <empleado>
+        <dni>47123598p</dni>
+        <nombre>Andrea</nombre>
+        <apellidos>Amaya Gutierrez</apellidos>
+        <sueldo>850</sueldo>
+    </empleado>
+    <empleado>
+        <dni>41230589y</dni>
+        <nombre>Juan Antonio</nombre>
+        <apellidos>Martinez Ruiz</apellidos>
+        <sueldo>1325</sueldo>
+    </empleado>
+    <empleado>
+        <dni>85142369t</dni>
+        <nombre>Esperanza</nombre>
+        <apellidos>Lago Revez</apellidos>
+        <sueldo>1105</sueldo>
+    </empleado>
+    <empleado>
+        <dni>85201475r</dni>
+        <nombre>Clara</nombre>
+        <apellidos>Alcantara Ojeda</apellidos>
+        <sueldo>1265</sueldo>
+    </empleado>
+    <empleado>
+        <dni>25874131l</dni>
+        <nombre>Elena</nombre>
+        <apellidos>Camacho Herrera</apellidos>
+        <sueldo>1950</sueldo>
+    </empleado>
+    <empleado>
+        <dni>48512369t</dni>
+        <nombre>Sergio</nombre>
+        <apellidos>Rivera Arias</apellidos>
+        <sueldo>2501</sueldo>
+    </empleado>
+
+</raiz>

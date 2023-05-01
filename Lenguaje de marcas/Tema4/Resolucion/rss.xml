@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<rss version="2.0">
+    <channel>
+        <title>WebMusical</title>
+        <link>file:///C:/Users/Mar%C3%ADa/Desktop/WebMusical/index.html</link>
+        <description>Web musical de una fan de Fuel Fandango</description>
+            <item>
+                <title>Origen, nuevo disco de Fuel Fandango</title>
+                <guid>https://open.spotify.com/album/6NqYTQiv0OluEf9u3vwbtS</guid>
+                <description>Enlace a Spotify, donde podemos disfrutar de Origen</description>
+
+            </item>
+            <item>
+                <title>Video musical de Fuel Fandango</title>
+                <guid>https://youtu.be/gmQWJVEVptU</guid>
+                <description>Enlace a youtube donde puedes disfrutar del video de Always Searching de Fuel Fandango</description>
+
+            </item>
+            <item>
+                <title>Entradas para los conciertos</title>
+                <guid>https://www.fuelfandango.com/es/tour/</guid>
+                <description>Link a la página oficial de Fuel Fandango donde puedes consultar los proximos conciertos y comprar entradas</description>
+    
+            </item>
+            
+        
+    </channel>
+</rss>

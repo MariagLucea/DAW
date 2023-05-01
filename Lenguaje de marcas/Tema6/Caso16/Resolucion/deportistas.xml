@@ -1,0 +1,48 @@
+<deportistas>
+	<deportista identificador="1">
+		<nombre>Rafael Nadal</nombre>
+		<deporte>Tenis</deporte>
+		<titulos>100</titulos>
+	</deportista>
+	<deportista identificador="2">
+		<nombre>Kylian Mbappé</nombre>
+		<deporte>Fútbol</deporte>
+		<titulos>8</titulos>
+	</deportista>
+	<deportista identificador="3">
+		<nombre>Primoz Roglic</nombre>
+		<deporte>Ciclismo</deporte>
+		<titulos>64</titulos>
+	</deportista>
+	<deportista identificador="4">
+		<nombre>Alexander Zverev</nombre>
+		<deporte>Tenis</deporte>
+		<titulos>11</titulos>
+	</deportista>
+	<deportista identificador="5">
+		<nombre>Leo Messi</nombre>
+		<deporte>Fútbol</deporte>
+		<titulos>39</titulos>
+	</deportista>
+	<deportista identificador="6">
+		<nombre>Alejandro Valverde</nombre>
+		<deporte>Ciclismo</deporte>
+		<titulos>133</titulos>
+	</deportista>
+	<deportista identificador="7">
+		<nombre>Novak Djokovic</nombre>
+		<deporte>Tenis</deporte>
+		<titulos>87</titulos>
+	</deportista>
+	<deportista identificador="8">
+		<nombre>Joaquín Sánchez</nombre>
+		<deporte>Fútbol</deporte>
+		<titulos>2</titulos>
+	</deportista>
+	<deportista identificador="9">
+		<nombre>Carlos Alcaraz</nombre>
+		<deporte>Tenis</deporte>
+		<titulos>5</titulos>
+	</deportista>
+</deportistas>
+

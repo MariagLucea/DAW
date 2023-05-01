@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<rss version="2.0">
+    <channel>
+        <title>Diario de Sevilla</title>
+        <link>https://www.diariodesevilla.es/</link>
+        <description>Noticias de actualidad de Sevilla</description>
+            <item>
+                <title>Andalucía no retirará las mascarillas en interiores , al menos, en mes y medio</title>
+                <guid>https://www.diariodesevilla.es/andalucia/Moreno-descarta-retirada-mascarillas-interiores_0_1671433413.html</guid>
+                <description>Articulo con declaraciones del preseidente de Andalucía</description>
+
+            </item>
+            <item>
+                <title>La Policía Nacional alerta de una nueva estafa por WhatsApp</title>
+                <guid>https://www.diariodesevilla.es/sevilla/Policia-Nacional-alerta-nueva-estafa-WhatsApp_0_1671433297.html</guid>
+                <description>Articulo donde la policía alerta sobre estafas por WhatsApp</description>
+
+            </item>
+            <item>
+                <title>Así es Kira, la nueva perra de la Policía Local de Olivares</title>
+                <guid>https://www.diariodesevilla.es/aljarafe/Kira-perra-policia-local-Olivares_0_1671433084.html</guid>
+                <description>Articulo donde se presenta a Kira, una perra policía que se ha incorporado a la plantilla de la policía local de Olivares</description>
+    
+            </item>
+            <item>
+                <title>La ONU alerta de que el planeta se calentará 3,2 grados este siglo si no hay políticas ambientales más firmes</title>
+                <guid>https://www.diariodesevilla.es/sociedad/ONU-alerta-ritmo-actual-planeta-calentara_0_1671434533.html</guid>
+                <description>Advertencia de la ONU sobre el cambio climático</description>
+
+    
+            </item>
+            <item>
+                <title>Metro: Sevilla Quiere Metro y 14 entidades vecinales piden que se actualice ya la línea 2</title>
+                <guid>https://www.diariodesevilla.es/sevilla/linea-2-Metro-Sevilla-entidades-vecinales-planifique-quiere_0_1671433433.html</guid>
+                <description>Peticionnes sobre actualzaciones y modificaciones en las líneas de metro de Sevilla</description>
+                
+    
+            </item>
+        
+    </channel>
+</rss>
